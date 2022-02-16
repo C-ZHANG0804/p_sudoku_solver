@@ -6,4 +6,6 @@
 
 #####In the last version, I can use opencv api to read any sudoku from photos and find a wayout for the sudoku
 
+##### In the version 3 of suduku solver, I will try to trim the number with cross method to find out the new way to solve the sudoku instead of the recursion
+
 
